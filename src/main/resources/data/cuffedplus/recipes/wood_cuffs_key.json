@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  N",
+    " NN",
+    "N  "
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:wood"
+    }
+  },
+  "result": {
+    "item": "cuffedplus:wood_cuffs_key",
+    "count": 1
+  }
+}
